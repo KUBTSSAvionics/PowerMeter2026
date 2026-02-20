@@ -9286,7 +9286,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Schottky")
-		(at 97.79 40.64 180)
+		(at 97.79 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9295,7 +9295,7 @@
 		(fields_autoplaced yes)
 		(uuid "9866468c-e9b8-4156-9397-5cdeb1e7a51c")
 		(property "Reference" "D1"
-			(at 98.1075 34.29 0)
+			(at 97.4725 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9303,7 +9303,7 @@
 			)
 		)
 		(property "Value" "RB160M"
-			(at 98.1075 36.83 0)
+			(at 97.4725 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
