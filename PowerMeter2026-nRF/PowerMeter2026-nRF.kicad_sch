@@ -3716,7 +3716,7 @@
 	)
 	(text "//2~3Aクラスのインダクタを使う\n"
 		(exclude_from_sim no)
-		(at 76.962 8.89 0)
+		(at 78.232 26.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6708,7 +6708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+VDDA_R"
 			(at 190.119 46.2788 90)
 			(effects
 				(font
@@ -6913,7 +6913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+VDDA_R"
 			(at 208.8388 46.609 90)
 			(effects
 				(font
@@ -7114,7 +7114,7 @@
 				)
 			)
 		)
-		(property "Value" "NCP1117-3.3_TO252"
+		(property "Value" "NJM2845DL1-33"
 			(at 97.79 48.26 0)
 			(effects
 				(font
@@ -8317,7 +8317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+VDD"
+		(property "Value" "+3V3"
 			(at 241.3 110.49 0)
 			(effects
 				(font
@@ -9706,7 +9706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+VDDA_L"
 			(at 178.689 114.8588 90)
 			(effects
 				(font
@@ -10665,7 +10665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+VDD"
+		(property "Value" "+3V3"
 			(at 252.73 41.91 0)
 			(effects
 				(font
@@ -11133,7 +11133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3V3"
+		(property "Value" "+VDDA_L"
 			(at 197.4088 115.189 90)
 			(effects
 				(font
